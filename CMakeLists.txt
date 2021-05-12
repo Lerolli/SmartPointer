@@ -3,4 +3,4 @@ project(smartPointer)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(smartPointer main.cpp smartPointer.cpp)
+add_executable(smartPointer main.cpp SmartPointer.cpp)
